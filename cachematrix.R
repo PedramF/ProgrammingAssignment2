@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## This solution is to calculate the inverse of a Matrix
 ## if a Matrix is large, this can be costly to the performance
 ## Thus, this code checks if the inverse have previously been calculated instead of re-calculating it repeatedly
@@ -157,5 +156,4 @@ cacheSolve <- function(x, ...) {
 ## getting cached data.   NOTICE THIS LINE ON THE SECOND RUN
 ##           [,1]      [,2]
 ## [1,] 1.0666667 0.2666667
->>>>>>> origin/master
 ## [2,] 0.2666667 1.0666667
